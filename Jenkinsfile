@@ -36,6 +36,13 @@ pipeline {
                 }
             }
         }
+
+        stage('Deploy the application') {
+            steps {
+                        sh build.sh
+
+                }
+        }
         
         
     }
