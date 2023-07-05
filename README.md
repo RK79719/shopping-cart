@@ -25,7 +25,7 @@ as well as change the port number.
 
 There are several ways to run the application. You can run it from the command line with included Maven Wrapper, Maven or Docker. 
 
-Once the app starts, go to the web browser and visit `http://localhost:8070/home`
+Once the app starts, go to the web browser and visit `http://localhost:8082/home`
 
 Admin username: **admin**
 
